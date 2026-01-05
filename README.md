@@ -76,20 +76,6 @@ Currently, I work on **video intelligence platforms**, central authentication sy
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=atishay-aj&theme=dark&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=atishay-aj&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atishay-aj&theme=dark&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=atishay-aj&theme=dark&margin-w=4)
-
----
-
 ## ✍️ Developer Philosophy
 
 > “Good backend systems are invisible when done right — reliable, scalable, and boring in production.”
