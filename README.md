@@ -2,7 +2,8 @@
 
 🚀 **Backend Engineer | Distributed Systems Enthusiast | API & Platform Specialist**
 
-I’m a backend-focused software engineer with **4+ years of hands-on experience** designing and building **scalable, secure, and high-performance systems**.  
+I’m a backend-focused software engineer with **4+ years of hands-on experience** designing and building **scalable, secure, and high-performance systems**.
+
 I thrive at the intersection of **system design, clean APIs, and real-world production challenges**.
 
 Currently, I work on **video intelligence platforms**, central authentication systems, and high-throughput backend services used in **B2B enterprise environments**.
